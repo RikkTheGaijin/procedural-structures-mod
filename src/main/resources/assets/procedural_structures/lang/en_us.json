@@ -1,0 +1,17 @@
+{
+  "key.procedural_structures.generate_structure": "Generate Structure",
+  "key.procedural_structures.cycle_theme": "Cycle Theme",
+  "key.procedural_structures.show_config": "Open Configuration Menu",
+  "category.procedural_structures.general": "Procedural Structures",
+  
+  "gui.procedural_structures.config.title": "Procedural Structures Configuration",
+  "gui.procedural_structures.config.theme": "Theme",
+  "gui.procedural_structures.config.min_scale": "Min Scale",
+  "gui.procedural_structures.config.max_scale": "Max Scale",
+  "gui.procedural_structures.config.decorations": "Decorations",
+  "gui.procedural_structures.config.lighting": "Lighting",
+  "gui.procedural_structures.config.plants": "Plants",
+  "gui.procedural_structures.config.floating_islands": "Floating Islands",
+  "gui.procedural_structures.config.done": "Done",
+  "gui.procedural_structures.config.help": "Press G to generate, T to cycle themes, H to open this menu"
+}
