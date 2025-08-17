@@ -110,7 +110,8 @@ public class StructureGenerator {
             case COLOR_BLUE -> basePalette = BlockPalettes.BLUE_PALETTE;
             case COLOR_GREEN -> basePalette = BlockPalettes.GREEN_PALETTE;
             case COLOR_PURPLE -> basePalette = BlockPalettes.PURPLE_PALETTE;
-            case RAINBOW -> basePalette = BlockPalettes.DEFAULT_PALETTE;
+            case BLACK -> basePalette = BlockPalettes.BLACK_PALETTE;
+            case WHITE -> basePalette = BlockPalettes.WHITE_PALETTE;
             default -> basePalette = BlockPalettes.DEFAULT_PALETTE;
         }
         

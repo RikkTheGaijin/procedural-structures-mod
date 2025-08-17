@@ -27,7 +27,8 @@
 - **Snow** - Ice and snow blocks
 - **Jungle** - Tropical jungle woods
 - **Red/Blue/Green/Purple** - Color-themed blocks
-- **Rainbow** - Colorful mixed palette
+- **Black** - Dark-themed blocks and blackstone
+- **White** - Light-themed blocks and quartz
 
 ### 🖥️ **Interactive Configuration UI**
 - **Theme Selection** - Click to cycle through all options

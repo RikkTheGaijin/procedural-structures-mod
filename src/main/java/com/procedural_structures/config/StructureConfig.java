@@ -16,7 +16,8 @@ public class StructureConfig {
         COLOR_BLUE("Blue", "Blue-themed blocks only"),
         COLOR_GREEN("Green", "Green-themed blocks only"),
         COLOR_PURPLE("Purple", "Purple-themed blocks only"),
-        RAINBOW("Rainbow", "Colorful mixed palette");
+        BLACK("Black", "Dark-themed blocks and blackstone"),
+        WHITE("White", "Light-themed blocks and quartz");
         
         private final String displayName;
         private final String description;
