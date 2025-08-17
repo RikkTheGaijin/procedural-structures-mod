@@ -1,5 +1,7 @@
 # Procedural Structures Mod
 
+![Procedural Structures Logo](assets/logo.png)
+
 **Generate beautiful procedural structures with the press of a key!**
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.7--1.21.8-brightgreen.svg)](https://minecraft.net/)
